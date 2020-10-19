@@ -4,18 +4,49 @@
   
   <url>
     <loc>https://zqrren.github.io/categories/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://zqrren.github.io/first-post/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://zqrren.github.io/posts/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://zqrren.github.io/tags/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://zqrren.github.io/tags/test/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://zqrren.github.io/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://zqrren.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-10-19T17:15:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
