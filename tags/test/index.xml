@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>test on Zqrren的个人Blog</title>
-    <link>https://zqrren.github.io/tags/test/</link>
-    <description>Recent content in test on Zqrren的个人Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2020 17:15:00 +0800</lastBuildDate><atom:link href="https://zqrren.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My first post</title>
-      <link>https://zqrren.github.io/first-post/</link>
-      <pubDate>Mon, 19 Oct 2020 17:15:00 +0800</pubDate>
-      
-      <guid>https://zqrren.github.io/first-post/</guid>
-      <description>test 测试</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>test - 标签 - Zqrren的个人Blog</title>
+        <link>https://zqrren.github.io/tags/test/</link>
+        <description>test - 标签 - Zqrren的个人Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 19 Oct 2020 17:15:00 &#43;0800</lastBuildDate><atom:link href="https://zqrren.github.io/tags/test/" rel="self" type="application/rss+xml" /><item>
+    <title>My first post</title>
+    <link>https://zqrren.github.io/first-post/</link>
+    <pubDate>Mon, 19 Oct 2020 17:15:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zqrren.github.io/first-post/</guid>
+    <description><![CDATA[<h2 id="test">test</h2>
+<p>测试</p>
+]]></description>
+</item></channel>
 </rss>
